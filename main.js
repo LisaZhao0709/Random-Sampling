@@ -1,4 +1,4 @@
-var names = ["李华","小明","小红","小张","HXD","LPL","LOL"];
+var names = ["莫雁如","宋旻烨","余梓莹","刘雅静","邱博阳","张金豪","陈致羽","王艺儒","李沛园","吴婉宁","马仁浩","张金豪","杨雨龙","张梓涵"];
 var length = names.length;
 
 var displayBoard = document.getElementById("nameDisplay");
